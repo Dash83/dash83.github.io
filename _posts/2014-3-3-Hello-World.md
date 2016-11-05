@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my blog!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Welcome to the fountain of randomness I expect this blog to be. As you can in my about page, I'm a Ph.D. student from University of Cambridge and member of the Computer Laboratory. My objective with this blog is to share with other potential students my struggles as an up-and-coming researcher in this crazy world known as academia, as well as share whatever insights I may have.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Also, I find that talking about our own interests with others opens up paths to collaboration and new understanding, so please feel free to chime in the comments section for any particular subject I'm discussing if you share any interest in it, or hit me up at my email (find it in the about page).
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Cheers!
